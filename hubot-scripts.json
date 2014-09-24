@@ -1,7 +1,6 @@
 [
   "alot.coffee",
   "dealwithit.coffee",
-  "karma.coffee",
   "lmgtfy.coffee",
   "look-of-disapproval.coffee",
   "redis-brain.coffee",
@@ -10,7 +9,5 @@
   "shipit.coffee",
   "talkative.coffee",
   "tell.coffee",
-  "tweet-content.coffee",
-  "xkcd.coffee",
-  "youtube-info.coffee"
+  "xkcd.coffee"
 ]
