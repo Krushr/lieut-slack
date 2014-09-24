@@ -28,7 +28,7 @@ module.exports = (robot) ->
     rest_base:              'https://api.twitter.com/1.1'
 
   if not auth.consumer_key or not auth.consumer_secret or not auth.access_token_key or not auth.access_token_secret
-    console.log "twitter-content.coffee: HUBOT_TWITTER_CONSUMER_KEY, HUBOT_TWITTER_CONSUMER_SECRET,
+    console.log "retweet-tweets.coffee: HUBOT_TWITTER_CONSUMER_KEY, HUBOT_TWITTER_CONSUMER_SECRET,
     HUBOT_TWITTER_ACCESS_TOKEN_KEY, and HUBOT_TWITTER_ACCES_TOKEN_SECRET are required."
     return
 
